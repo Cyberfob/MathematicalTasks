@@ -1,1 +1,1 @@
-# MathematicalTasks
+# Mathematical Tasks
