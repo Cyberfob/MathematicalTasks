@@ -1,1 +1,4 @@
-# Mathematical Tasks
+# Mathematical Tasks answer:
+Жук = 
+Пчела = 
+Муровей = 
